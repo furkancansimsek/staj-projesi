@@ -1,0 +1,42 @@
+[
+    {
+        "address": "Lale Apartmanı",
+        "residents": [
+            {
+                "name": "Furkan Can Şimşek",
+                "phone": "05555555555",
+                "job": "Yazılımcı"
+            },
+            {
+                "name": "Semih Çevik",
+                "phone": "05555555555",
+                "job": "Yazılımcı"
+            }
+        ]
+    },
+    {
+        "address": "Gül Apartmanı",
+        "residents": [
+            {
+                "name": "Arkın Fescioğlu",
+                "phone": "05555555555",
+                "job": "Yazılımcı"
+            },
+            {
+                "name": "Habib Gök",
+                "phone": "05555555555",
+                "job": "Yazılımcı"
+            }
+        ]
+    },
+    {
+        "address": "Papatya Apartmanı",
+        "residents": [
+            {
+                "name": "Burçak Çevik",
+                "phone": "05555555555",
+                "job": "Mimar"
+            }
+        ]
+    }
+]
